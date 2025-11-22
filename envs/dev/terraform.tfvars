@@ -1,0 +1,3 @@
+# Terraform variables
+
+environment = "dev"
